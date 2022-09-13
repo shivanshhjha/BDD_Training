@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlow_Automation", "SpecFlow_Automation\SpecFlow_Automation.csproj", "{DB662065-4016-4096-937F-587ABA7C8309}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpecFlow_Automation", "SpecFlow_Automation\SpecFlow_Automation.csproj", "{DB662065-4016-4096-937F-587ABA7C8309}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowAPIAutomation", "SpecFlowAPIAutomation\SpecFlowAPIAutomation.csproj", "{D6B2098C-91F9-4A12-AF6D-1936FB5589D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DB662065-4016-4096-937F-587ABA7C8309}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB662065-4016-4096-937F-587ABA7C8309}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB662065-4016-4096-937F-587ABA7C8309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B2098C-91F9-4A12-AF6D-1936FB5589D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B2098C-91F9-4A12-AF6D-1936FB5589D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B2098C-91F9-4A12-AF6D-1936FB5589D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B2098C-91F9-4A12-AF6D-1936FB5589D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

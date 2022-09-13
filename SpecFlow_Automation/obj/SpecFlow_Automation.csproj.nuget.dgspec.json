@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shivansh.Lokare\\OneDrive - MINDBODY, Inc\\Documents\\Training\\BDD training\\SpecFlow_Automation\\SpecFlow_Automation\\SpecFlow_Automation.csproj": {}
+    "C:\\Users\\Shivansh.Jha\\Downloads\\BDD_Training-master\\SpecFlow_Automation\\SpecFlow_Automation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shivansh.Lokare\\OneDrive - MINDBODY, Inc\\Documents\\Training\\BDD training\\SpecFlow_Automation\\SpecFlow_Automation\\SpecFlow_Automation.csproj": {
+    "C:\\Users\\Shivansh.Jha\\Downloads\\BDD_Training-master\\SpecFlow_Automation\\SpecFlow_Automation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shivansh.Lokare\\OneDrive - MINDBODY, Inc\\Documents\\Training\\BDD training\\SpecFlow_Automation\\SpecFlow_Automation\\SpecFlow_Automation.csproj",
+        "projectUniqueName": "C:\\Users\\Shivansh.Jha\\Downloads\\BDD_Training-master\\SpecFlow_Automation\\SpecFlow_Automation.csproj",
         "projectName": "SpecFlow_Automation",
-        "projectPath": "C:\\Users\\Shivansh.Lokare\\OneDrive - MINDBODY, Inc\\Documents\\Training\\BDD training\\SpecFlow_Automation\\SpecFlow_Automation\\SpecFlow_Automation.csproj",
-        "packagesPath": "C:\\Users\\Shivansh.Lokare\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shivansh.Lokare\\OneDrive - MINDBODY, Inc\\Documents\\Training\\BDD training\\SpecFlow_Automation\\SpecFlow_Automation\\obj\\",
+        "projectPath": "C:\\Users\\Shivansh.Jha\\Downloads\\BDD_Training-master\\SpecFlow_Automation\\SpecFlow_Automation.csproj",
+        "packagesPath": "C:\\Users\\Shivansh.Jha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shivansh.Jha\\Downloads\\BDD_Training-master\\SpecFlow_Automation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Shivansh.Lokare\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Shivansh.Jha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,8 +81,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -91,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

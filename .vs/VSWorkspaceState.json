@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\SpecFlow_Automation",
-    "\\SpecFlow_Automation\\Features"
+    ""
   ],
-  "SelectedNode": "\\SpecFlow_Automation\\Features\\EmergencyContacts.feature",
+  "SelectedNode": "\\SpecFlow_Automation.sln",
   "PreviewInSolutionExplorer": false
 }

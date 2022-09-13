@@ -15,7 +15,7 @@ Background:
 #	And I click on Add Employee
 #	And I fill the Add employee section
 #		| firstname | middlename | lastname | employee_id | toggle_login_detail | username | password    | confirm_password | status   |
-#		| Shivansh   | A          | Lokare   | 101         | on                  | Jimmy    | Welcome@123 | Welcome@123      | disabled |
+#		| Harshad   | A          | Lokare   | 101         | on                  | Jimmy    | Welcome@123 | Welcome@123      | disabled |
 #	And I click on save employee
 #	Then I should be navigated to personal details section with added employee records
 
@@ -34,7 +34,7 @@ Scenario Outline: Add Valid Employee
 
 	Examples: 
 	| firstname | middlename | lastname | employee_id | toggle_login_detail | username | password    | confirm_password | status   |
-	| Shivansh  | A          | lokare   | 102         | on                  | Jimmy    | Welcome@123 | Welcome@123      | disabled |
+	| harshad  | A          | lokare   | 102         | on                  | Jimmy    | Welcome@123 | Welcome@123      | disabled |
 
 
 
@@ -47,14 +47,14 @@ Scenario Outline: Add Valid Employee
 #	And I click on login
 #	And I click on PIM
 #	And I click on Add Employee
-#	And I enter firstname as 'Shivansh'
-#	And I enter middlename 'Shivansh'
-#	And I enter lastname 'Shivansh'
+#	And I enter firstname as 'harshad'
+#	And I enter middlename 'harshad'
+#	And I enter lastname 'harshad'
 #	And I enter Employee Id as '101'
 #	And I upload Employee Image ''
 #	And I click on create credential
-#	And I enter username 'Shivansh'
-#	And I enter password 'Shivansh'
+#	And I enter username 'harshad'
+#	And I enter password 'harshad'
 #	And I enter confirm password
 #	And I select status as disables
 #	Then I click on save
